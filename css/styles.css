@@ -124,7 +124,7 @@ button {
   line-height: var(--typical-lh);
   letter-spacing: 0.02em;
   color: var(--main-color);
-  padding: 8px;
+  /* padding: 8px; */
   transition: color var(--main-transition);
 }
 
